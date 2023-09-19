@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "D:/love babbar/Html"
+		},
+		{
+			"path": "D:/New folder/project"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501,
+		"liveServer.settings.multiRootWorkspaceName": "task manager"
+	}
+}
